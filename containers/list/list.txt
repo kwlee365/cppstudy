@@ -1,0 +1,4 @@
+- A list is a sequence container that allows non-contiguous memory allocation
+- implements a doubly linked list
+- Efficient insertion and deletion of elements at any point in the list
+- Does not support random access to elements

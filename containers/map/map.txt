@@ -1,0 +1,10 @@
+- A map is an associative container that store elements composed of key-value pairs
+- In a map, the keys are unique and serve to sort and uniquely identify the elements, while the mapped values can be duplicated
+- By default, the elements in a map are sorted based on their keys in ascending order (different from a hash table)
+- map is typically implemented as a balanced binary search tree, where each node is a key-value pair.
+
+- Node : A std::pair object 
+    - first (key)
+    - second (value)
+
+- Binary search tree: its key is greater than all keys in the left subtree and less than all keys in the right subtree.

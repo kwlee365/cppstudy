@@ -1,0 +1,4 @@
+- A set is an associative container that stores unique elements
+- The value of an element is also the key of the element. (key = value)
+- Elements are sorted according to the values by default, and all elements are the unique.
+- The set typically uses a balanced binary search tree to store its elements internally.

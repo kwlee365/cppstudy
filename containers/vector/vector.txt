@@ -1,0 +1,5 @@
+- A vector is a sequence container that encapsulates dynamic-size arrays, similar to list in Python
+- Elements are stored in contiguous storage
+- Supports random access to elements, i.e., direct access by their position index
+- Offers efficient insertion and deletion of elements at the end
+- Resizes automatically when elements are added beyound their capacity or removed.
