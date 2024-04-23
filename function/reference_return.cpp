@@ -2,7 +2,6 @@
 #include <map>
 #include <string>
 
-
 // Input : reference Map
 // Output : reference middle element of the Map
 int& middleElement(std::map<std::string, int> &m)
